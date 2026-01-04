@@ -5,7 +5,7 @@ import { getDatabase, Database } from 'firebase/database';
 let app: FirebaseApp;
 
 const firebaseConfig = {
-    apiKey: "AIzaSyAB6lo7ZKQpSAf-CS9jY1HxG-OACZo21-4",
+    apiKey: "MY_API_KEY",
     authDomain: "vriksha-chain.firebaseapp.com",
     databaseURL: "https://vriksha-chain-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "vriksha-chain",
